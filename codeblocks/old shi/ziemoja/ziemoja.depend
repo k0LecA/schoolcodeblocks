@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666800470 source:d:\codebloacks\ziemoja\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

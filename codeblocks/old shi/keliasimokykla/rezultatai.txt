@@ -1,0 +1,2 @@
+suplojimu: 1
+spragtelejimu: 2

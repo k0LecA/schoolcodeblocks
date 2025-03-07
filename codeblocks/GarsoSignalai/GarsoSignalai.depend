@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1673978684 source:d:\codebloacks\garsosignalai\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<math.h>
+

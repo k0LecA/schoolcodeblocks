@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680016337 source:d:\codebloacks\seka\main.cpp
+	<iostream>
+	<fstream>
+

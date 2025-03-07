@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685292075 source:d:\codebloacks\sveikamityba\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

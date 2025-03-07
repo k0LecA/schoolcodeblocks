@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683478011 source:d:\codebloacks\kreps\main.cpp
+	<iostream>
+	<fstream>
+

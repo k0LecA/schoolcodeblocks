@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666891314 source:d:\codebloacks\sneigesuzlango\main.cpp
+	<iostream>
+	<fstream>
+

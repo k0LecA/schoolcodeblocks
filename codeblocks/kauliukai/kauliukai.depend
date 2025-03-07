@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666893595 source:d:\codebloacks\kauliukai\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

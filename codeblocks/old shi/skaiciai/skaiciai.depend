@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666801530 source:d:\codebloacks\skaiciai\main.cpp
+	<iostream>
+	<fstream>
+

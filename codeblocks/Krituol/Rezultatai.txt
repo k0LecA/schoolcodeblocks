@@ -1,0 +1,18 @@
+Krituliai (lietus)
+---------------------------
+Diena       Krituliu kiekis (mm)
+---------------------------
+   1             10
+   2             20
+   3             0
+   4             0
+   5             0
+   6             45
+   7             25
+   8             30
+   9             50
+   10             25
+---------------------------
+Is viso iskrito krituliu (mm) : 205
+Nelijo (dienas) : 3
+Vidutiniskai kiekviena lietinga diena iskrito krituliu (mm) : 29

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666798617 source:d:\codebloacks\adsasdads\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

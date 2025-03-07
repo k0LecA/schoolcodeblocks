@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680009523 source:d:\codebloacks\kolekcijossam\main.cpp
+	<iostream>
+	<fstream>
+
